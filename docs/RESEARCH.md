@@ -33,6 +33,18 @@ Social House should borrow the capability gates and structured briefs—not thei
 
 Recent discussions in [r/smallbusiness](https://www.reddit.com/r/smallbusiness/comments/1szehzp/how_do_you_handle_social_media_for_your_small/) and [r/InstagramMarketing](https://www.reddit.com/r/InstagramMarketing/comments/1ou74f8/im_a_professional_social_media_growth_strategist/) repeatedly favour authentic product/process footage, natural light, useful storytelling, repurposing real footage across formats, and fast engagement with the earliest audience. These are practitioner observations, not controlled evidence. Use them as hypotheses in the measurement loop.
 
+### Instagram algorithm thread, October 2026 review
+
+The [“Everything about the Instagram algorithm in 2026” thread](https://www.reddit.com/r/InstagramMarketing/comments/1t3l41e/everything_about_the_instagram_algorithm_in_2026/) contains useful operating hypotheses: optimise early viewing experience, build a clear share reason, distinguish account discovery from follower retention, and assess profile conversion alongside reach.
+
+Do **not** encode its claimed numbers, fixed format roles, daily posting prescription, or named software recommendations as product truth. The thread is promotional in places, comments dispute several claims, and recent commenters report changing reach despite strong engagement. Translate it into the system this way:
+
+- track early retention, completion/rewatch where available, shares, saves, profile visits and qualified DMs;
+- design a share reason only when it is useful or emotionally relevant, not as an artificial “send this” line;
+- keep Reels, carousels and Stories as different creative jobs, but let account-level outcomes decide their role;
+- never promise a fixed first-second threshold, posting cadence or algorithm outcome;
+- inspect non-follower reach separately when testing discovery content.
+
 ## Current reference collection
 
 The project’s private source collection includes fabric/editorial references and the learned mechanics: tactile macro openings, real process worlds, premium carousel rhythm, trend adaptation, natural material proof, and no-text-over-product restraint. The reference collector must keep original URL, platform, creator/account, collection date, observed mechanics, sector, and usage note.
@@ -47,4 +59,3 @@ Never treat a reference as a license to reuse its video, audio, copy, or distinc
 - **StringTune:** a browser-motion runtime useful for a web companion/interactive launch experience, not an MP4 Reel renderer. See the [StringTune site](https://string-tune.fiddle.digital/).
 
 The baseline must remain free-first and provider-optional. “No cost” cannot honestly mean every generated clip, voice, stock licence, live data source, or API will always be free.
-
