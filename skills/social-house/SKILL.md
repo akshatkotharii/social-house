@@ -1,13 +1,23 @@
 ---
 name: social-house
-description: Produce a high-quality, proof-led Instagram Reel or carousel from a small user asset pack. Use for product/service social content, reference analysis, covers, captions, DM conversion design, and performance-learning plans. Reject generic AI patterns, unverified product claims, and uninspected layouts.
+description: Build and continuously improve proof-led social content for businesses from minimal assets. Use for Reels, carousels, covers, captions, voice, conversion plans, or when ingesting new references, expert feedback, research, tools and performance evidence into Social House.
 ---
 
 # Social House
 
-Create one publish-ready social asset from minimal real media without forcing the user through agency-style iteration. The standard is a credible, specific sales or brand outcome—not generic AI content.
+Create one publish-ready social asset from minimal real media without forcing the user through agency-style iteration. Continuously improve workflow from supplied references, expert feedback, research, tools and real results. Standard is credible, specific sales or brand outcome—not generic AI content.
 
-Read `references/quality-gates.md` and `references/input-contract.md` before producing a deliverable.
+Always read `references/project-context.md`. Read `references/quality-gates.md` and `references/input-contract.md` before producing a deliverable. When user supplies knowledge, read and follow `references/knowledge-ingestion.md`.
+
+## Knowledge intake
+
+Treat a link, expert note, tool, research article, performance result or output critique in an established Social House project as knowledge to evaluate and apply—not material to archive passively.
+
+- Separate direct observation from claim, opinion and promotion.
+- Assign `adopt`, `test`, `sector-only`, `tool-route`, `reference-only` or `reject`.
+- Update correct skill rule, conditional reference, public research, Brand Memory, tool route or behavioural test.
+- State what future output will do differently.
+- Never make one reference a universal template or one platform claim a permanent rule.
 
 ## Default behaviour
 
@@ -20,6 +30,8 @@ Read `references/quality-gates.md` and `references/input-contract.md` before pro
 7. Produce only with real product proof for decisive claims. Generated visuals can be supporting context only, clearly tracked as such.
 8. Run every quality gate before saying the content is final. Inspect renders/layouts, not merely prompts or source code.
 9. Deliver the asset plus a publishing pack, source-truth summary, quality status, CTA/DM response, and a next-test hypothesis.
+
+Tool selection stays internal. Choose smallest reliable toolchain for requested result. Do not make user coordinate separate generators/editors unless authentication, cost, rights or unavailable capability requires their action.
 
 ## Ask the minimum
 
@@ -73,4 +85,3 @@ Include:
 - Call a prompt-only or uninspected render “final.”
 - Copy a creator/reference or claim a sound is trending without current, authorised evidence.
 - Autopost, run ads, spend money, or send customer messages without explicit permission.
-

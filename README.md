@@ -79,6 +79,8 @@ We collect references from Instagram, Facebook, Pinterest, fashion/editorial wor
 
 Research separates direct observations, practitioner hypotheses and platform-dependent facts. Live sound/trend recommendations need source/date/region/right checks. See [research notes](docs/RESEARCH.md) and [reference protocol](docs/REFERENCE-LIBRARY.md).
 
+New references are not merely stored. Each is evaluated, classified and applied to a skill rule, conditional guide, tool route, test or documented rejection. See [continuous learning system](docs/LEARNING-SYSTEM.md).
+
 ## Quality standard
 
 Content cannot be called final until it passes:
@@ -93,12 +95,14 @@ Status is explicit: `publish-ready`, `creative-ready, needs proof`, or `explorat
 
 ## Read next
 
+- [Project context and north star](skills/social-house/references/project-context.md)
 - [Product specification](docs/PRODUCT-SPEC.md)
 - [Creative system](docs/CREATIVE-SYSTEM.md)
 - [Anti-generic safeguards](docs/ANTI-GENERIC.md)
 - [Reel playbook](docs/REEL-PLAYBOOK.md)
 - [Carousel playbook](docs/CAROUSEL-PLAYBOOK.md)
 - [DM conversion and measurement](docs/MEASUREMENT-AND-CONVERSION.md)
+- [Continuous learning system](docs/LEARNING-SYSTEM.md)
 - [Risks/open decisions](docs/RISKS-AND-OPEN-QUESTIONS.md)
 
 ## Feedback wanted
