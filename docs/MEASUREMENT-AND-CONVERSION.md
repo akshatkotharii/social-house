@@ -49,7 +49,23 @@ Boosting is not a default output. It should be considered only when:
 
 After a boost, record objective, audience, creative, spend, delivery, click/DM/lead quality and outcome. The next decision is based on the business result, not merely low-cost impressions.
 
+### Creative test card
+
+Before spending or publishing a deliberate test, make the decision inspectable:
+
+```text
+Buyer and context:
+One barrier/desire:
+Truthful promise:
+Real proof used:
+Primary action:
+Single variable being tested:
+Primary success signal:
+What would make this inconclusive:
+```
+
+Do not change opening, edit style, sound, offer, CTA and audience together, then call the outcome a creative learning. The card records an association or experiment result; it does not turn one winning post into a universal algorithm rule.
+
 ## Community as a research engine
 
 Save strong comments and recurring DMs. Repeated questions are a content backlog: material care, availability, fit, technique, styling, selection, delivery, or pricing process. Give UGC a useful prompt rather than a vague `tag us`: unboxing, styling, texture close-up, before/after, or customer story. Seek permission before reposting.
-

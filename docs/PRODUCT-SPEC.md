@@ -116,3 +116,14 @@ Brand Memory is the difference between a one-off generator and a content house. 
 
 It must be editable and visible to the owner. Nothing should become an invisible brand rule merely because the model guessed it once.
 
+## Still-to-motion policy
+
+One photo can yield several short beats, but the system must choose the least synthetic route that serves the story:
+
+1. Use crop, camera movement, clean parallax or restrained light treatment when the product itself must remain exact.
+2. Use image-to-video for brief support motion only after defining what must remain unchanged.
+3. Generate the provider's shortest viable clip, then use only the strongest 1–2 seconds.
+4. Treat a model or garment inferred from a swatch as illustrative, never as proof of exact drape, colour, cut or construction.
+5. Reject generation after repeated identity drift and request one specific real clip instead of hiding the failure.
+
+Current provider routing and acceptance rules live in `skills/social-house/references/tool-routing.md` and `skills/social-house/references/image-to-video.md`.

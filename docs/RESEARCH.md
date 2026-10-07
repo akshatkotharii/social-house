@@ -59,3 +59,13 @@ Never treat a reference as a license to reuse its video, audio, copy, or distinc
 - **StringTune:** a browser-motion runtime useful for a web companion/interactive launch experience, not an MP4 Reel renderer. See the [StringTune site](https://string-tune.fiddle.digital/).
 
 The baseline must remain free-first and provider-optional. “No cost” cannot honestly mean every generated clip, voice, stock licence, live data source, or API will always be free.
+
+## Short-form motion skill review
+
+The MIT-licensed [iart-ai/tiktok-video-skills](https://github.com/iart-ai/tiktok-video-skills) repository provides useful implementation craft: deterministic frame timing, strongest-first-frame construction, word-timed subtitles, safe-area previews, loop checks, contact sheets and MP4 probing.
+
+Social House adopts those mechanics conditionally. It does not adopt the repository’s uncited retention percentages, claimed distribution thresholds, mandatory captions or fixed 2–4 second pattern-interrupt cadence. Premium product content may sustain attention through texture, light and real handling without aggressive caption animation or frequent cuts.
+
+The related [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) repository is a catalogue for 17 separate packs, not one complete skill package. It remains a discovery index. The e-commerce and ad-video packs require separate review before use.
+
+Maintained inventory: [SKILLS-AND-REPOSITORIES.md](../research/SKILLS-AND-REPOSITORIES.md).

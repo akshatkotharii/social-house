@@ -2,6 +2,14 @@
 
 Social House is designed to improve from incoming references and real outcomes, not accumulate an unread swipe file.
 
+## Corpus-scale learning
+
+Social House may learn from a structured content corpus, but it must not equate scale with truth. Bulk Instagram/Facebook browser scraping is not the default route. Use user-supplied references, saved collections, authorised account exports, permitted APIs or licensed datasets.
+
+Run a stratified pilot before scaling. Score creative craft independently from public performance, compare posts within matched account/format/age cohorts, retain counterexamples, and send top, bottom and random samples through human review. Promote findings into skill rules only after repeated evidence or controlled tests.
+
+Detailed schema, rubrics and nightly workflow: `skills/social-house/references/content-intelligence.md`.
+
 ## Input-to-change loop
 
 1. Founder supplies a Reel, carousel, account, article, expert note, tool or output critique.
@@ -32,4 +40,3 @@ Current system learns through maintained instructions, references, brand data, t
 Founder may paste only a URL and one sentence such as “great opening, weak branding.” System should inspect what is available, infer likely lesson, apply safe project updates and ask only when access or meaning blocks a responsible decision.
 
 For private/inaccessible posts, request screenshot, screen recording or short description. Do not pretend content was reviewed.
-
