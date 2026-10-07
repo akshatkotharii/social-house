@@ -84,7 +84,7 @@ The system may use only `verified_facts` in claim copy. Unknown facts are omitte
 2. **Build/retrieve Brand Memory:** feel, visual signature, type rules, palette, voice, claims, CTA patterns, and recent creative fingerprints.
 3. **Choose a content job:** desire, education, product conversion, trust, community, launch, or retention—not “viral” by default.
 4. **Research only when available:** analyse supplied references and live, authorised sources. Record source/date/region and whether the finding is evidence or a hypothesis.
-5. **Develop multiple private concepts:** choose the strongest one with a memorable premise and an authenticity map.
+5. **Develop a defensible concept:** compare alternatives when the assets and brief offer a real choice; choose a memorable premise and an authenticity map.
 6. **Produce with real proof first:** use AI only for labelled support context, not product-representative material.
 7. **Run quality gates:** layout, truth, brand, human feel, accessibility, rights, and conversion.
 8. **Deliver one recommended final.** If a gate fails, request the minimal reshoot/fact instead of exporting a fake final.

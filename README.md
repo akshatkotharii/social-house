@@ -2,7 +2,7 @@
 
 Experimental social-content skill for businesses with limited time, footage and budget.
 
-Start with product photos/clips + plain description. End with one proof-led Reel or carousel, cover, caption, CTA, DM path and quality report.
+Goal: start with product photos/clips and a plain description; deliver one proof-led Reel or carousel, cover, caption, CTA, DM path and quality report. Today this is a working skill specification and manual pilot, not a proven one-click production system.
 
 Tested first with textile businesses. Built for every sector.
 
@@ -81,6 +81,8 @@ Research separates direct observations, practitioner hypotheses and platform-dep
 
 New references are not merely stored. Each is evaluated, classified and applied to a skill rule, conditional guide, tool route, test or documented rejection. See [continuous learning system](docs/LEARNING-SYSTEM.md).
 
+The full content-industry feedback and inspected textile Reel patterns ship with the skill in [expert feedback](skills/social-house/references/expert-feedback.md) and [curated references](skills/social-house/references/curated-references.md). The source copies remain in the project workspace; keep both copies aligned when adding new feedback or reference analysis.
+
 ## Quality standard
 
 Content cannot be called final until it passes:
@@ -104,6 +106,7 @@ Status is explicit: `publish-ready`, `creative-ready, needs proof`, or `explorat
 - [DM conversion and measurement](docs/MEASUREMENT-AND-CONVERSION.md)
 - [Continuous learning system](docs/LEARNING-SYSTEM.md)
 - [Risks/open decisions](docs/RISKS-AND-OPEN-QUESTIONS.md)
+- [Readiness audit and next proof test](research/READINESS-AUDIT-2026-10-08.md)
 
 ## Feedback wanted
 

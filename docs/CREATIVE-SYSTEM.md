@@ -105,5 +105,4 @@ A Reel cover must be legible and interesting in the profile grid, independent of
 
 ## 7. Expert feedback traceability
 
-The detailed feedback that seeded these rules is maintained in the original project’s `SOCIAL_HOUSE_EXPERT_FEEDBACK.md`. It includes brand feel, sensory proof, covers/grids, edit continuity, captions, shoot practice, campaign strategy, community, measurement, and anti-corporate copy guidance. This repository converts those observations into executable gates rather than treating them as a style moodboard.
-
+The complete source feedback is preserved inside the skill at [`references/expert-feedback.md`](../skills/social-house/references/expert-feedback.md). It includes brand feel, sensory proof, covers/grids, edit continuity, captions, shoot practice, campaign strategy, community, measurement, and anti-corporate copy guidance. The skill reads it before producing a Reel or carousel.

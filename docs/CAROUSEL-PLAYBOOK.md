@@ -16,13 +16,13 @@ Carousel production is editorial design, not a Reel broken into stills. The read
 
 ## Slide narrative
 
-Use 5–8 slides as a practical starting range, then vary by story.
+Choose the shortest sequence that completes the reader's job. The roles below are options, not a prescribed slide count or order.
 
-1. **Cover:** one visual question or promise. It must work as a profile-grid tile.
-2. **Context:** why this matters to the buyer.
-3–5. **Proof:** details, choice criteria, process, comparison, use, or evidence.
-6. **Payoff:** resolved choice, reveal, or concise answer.
-7. **Action:** a precise next step. This can be a soft ending, not necessarily a loud sales graphic.
+- **Cover:** one visual question or promise that works as a profile-grid tile.
+- **Context:** why this matters to the buyer, if context is needed.
+- **Proof:** details, choice criteria, process, comparison, use, or evidence. Use as many slides as the proof needs.
+- **Payoff:** resolved choice, reveal, or concise answer.
+- **Action:** a precise next step. This can be a soft ending rather than a loud sales graphic.
 
 Avoid turning each slide into an isolated poster. Use recurring type placement and margins, then create rhythm by alternating close crop, quiet slide, full product, detail, information and human/context frames.
 
@@ -56,4 +56,3 @@ Before export, check:
 - Are all font styles, margins and colours intentional and consistent?
 - Does the final action match the post objective and sales response process?
 - Is the set distinct from the last few grid posts?
-

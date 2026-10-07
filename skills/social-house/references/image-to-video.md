@@ -18,7 +18,7 @@ This is usually better than generative video for a fabric swatch, embroidery mac
 
 ### B. Product-constrained generative motion
 
-Use Google Flow first-frame or first-and-last-frame video. Suitable examples:
+Use an account-accessible provider only after checking output watermark, rights and product fidelity. Google Flow offers first-frame or first-and-last-frame video, but output made in India currently receives a visible watermark. Suitable examples:
 
 - slight fabric edge movement already implied by the source;
 - subtle camera arc around an existing garment;
@@ -79,7 +79,7 @@ Example for an existing full-body model image:
 ## Production sequence
 
 1. Crop or prepare a clean 9:16 source without burning in text.
-2. Use the cheapest supported draft mode and shortest duration. Current Flow minimum is 4 seconds; final edit may use only 1–2 seconds.
+2. Use the cheapest suitable draft mode and shortest duration available in the selected provider. Final edit may use only 1–2 seconds.
 3. Generate one direction with at most a small number of variants. Stop if repeated attempts keep changing product identity.
 4. Compare source and output side by side at opening, middle and end frames.
 5. Select the shortest stable segment. Trim during assembly; do not slow an unstable clip to make it longer.
@@ -97,5 +97,6 @@ Reject clip if any applies:
 - synthetic scene becomes the main evidence for a product claim;
 - movement has no role in hook, proof, anticipation, emotion or transition;
 - final 1–2 second extract cannot cut cleanly into surrounding real footage.
+- visible watermark or export restriction breaks the intended brand treatment.
 
 When generation fails, use pixel-preserving movement or request one specific 3–5 second real clip. Do not keep spending credits to rescue a structurally unsuitable source image.

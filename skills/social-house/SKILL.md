@@ -5,9 +5,11 @@ description: Build and continuously improve proof-led social content for busines
 
 # Social House
 
-Create one publish-ready social asset from minimal real media without forcing the user through agency-style iteration. Continuously improve workflow from supplied references, expert feedback, research, tools and real results. Standard is credible, specific sales or brand outcome—not generic AI content.
+Create the strongest truthful social asset possible from minimal real media without forcing the user through agency-style iteration. Aim for a finished Reel or carousel, but grant `publish-ready` only after inspecting the actual export. Standard is credible, specific sales or brand outcome, not generic AI content.
 
 Always read `references/project-context.md`. Read `references/quality-gates.md` and `references/input-contract.md` before producing a deliverable. When user supplies knowledge, read and follow `references/knowledge-ingestion.md`.
+For every Reel or carousel, read `references/expert-feedback.md` before selecting concept, layout, voice or edit. Preserve its advice as creative judgment, subject to actual product truth and available assets.
+For textile work, read `references/curated-references.md` before ideation. Use observed mechanics and state which reference shaped the chosen concept. A link without an inspected mechanics record is not evidence of reference use.
 Read `references/agency-patterns.md` for campaign planning, creative testing, paid-distribution decisions or release-status review.
 
 ## Knowledge intake
@@ -28,7 +30,7 @@ Treat a link, expert note, tool, research article, performance result or output 
 3. Select the primary outcome: DM, catalogue request, quote, appointment, visit, save, profile visit, education, or brand memory.
 4. Infer the visual direction from the product and any saved Brand Memory. If there is no existing brand direction, choose a restrained, evidence-led direction and label it as an inference.
 5. Analyse references for mechanics only: hook, crop, pacing, motion, sound role, text role, emotional turn, CTA. Never copy a creator’s sequence, copy, visuals or audio.
-6. Develop at least three private concept directions. Pick one that has a specific memorable premise and does not duplicate recent creative fingerprints.
+6. Consider distinct concepts where assets support them. Pick one with a specific memorable premise that does not duplicate recent creative fingerprints; do not generate extra concepts to meet a quota.
 7. Produce only with real product proof for decisive claims. Generated visuals can be supporting context only, clearly tracked as such.
 8. Run every quality gate before saying the content is final. Inspect renders/layouts, not merely prompts or source code.
 9. Deliver the asset plus a publishing pack, source-truth summary, quality status, CTA/DM response, and a next-test hypothesis.
@@ -61,7 +63,7 @@ If real media is insufficient, say exactly which 3–5 second clip, close-up, an
 ## Carousel workflow
 
 - Deliver slide exports, a cover, grid/feed preview, caption, alt text, CTA and quality report.
-- Give each slide one message and the set a narrative: cover → context → proof → payoff → action.
+- Give each slide one message and a reason to swipe. Choose a sequence appropriate to the buyer question and available proof; a cover, proof and action do not require a fixed order or slide count.
 - Use a fixed, small typography system with meaningful negative space. Alternate visual intensity across the carousel and saved grid.
 - Do not use generated typography art as a substitute for readable, inspected layout.
 

@@ -84,7 +84,33 @@ This is the maintained inventory of external systems considered while building S
 - **Use:** orchestration layer that chooses tools internally and turns research into enforceable production behaviour.
 - **Decision:** core system.
 
+### [Remotion agent skills](https://github.com/remotion-dev/remotion/blob/main/packages/skills/README.md)
+
+- **Status:** Preliminary review of official skill catalogue on 2026-10-08; no local textile benchmark.
+- **Potential role:** alternative programmable render and caption stack if HyperFrames cannot meet a specific edit or portability need.
+- **Decision:** benchmark candidate only. Changing renderers does not solve concept, product proof or sales voice.
+
+### [OpenNolan](https://github.com/het8802/OpenNolan)
+
+- **Status:** Preliminary review of repository overview on 2026-10-08; production claims untested here. AGPL-3.0 project.
+- **Potential role:** study pipeline stages from hook and script through footage, voice, beat editing, captions and render.
+- **Decision:** architecture reference. Do not copy its code or treat its output claims as validated quality.
+
+### [Social Slideshows](https://github.com/ali-abassi/social-slideshows) and [Instagram Carousel skill](https://github.com/qwwiwi/agentos-skills-public/blob/main/skills/carousel-instagram/SKILL.md)
+
+- **Status:** Preliminary review of public repository descriptions and workflow on 2026-10-08.
+- **Potential role:** audience-tension planning plus deterministic slide layout and phone-size export.
+- **Limit:** predefined colour/type systems and stock slide roles risk repetitive branding; no proof that either produces strong textile conversion.
+- **Decision:** test layout/QA mechanics only after a real carousel benchmark.
+
 ## Editing, generation and audio tools
+
+### Meta Edits
+
+- **Status:** Official Meta product documentation reviewed on 2026-10-08; not tested in this user's account.
+- **Potential role:** human-controlled native finishing, saved Instagram references/audio, cover/caption adjustments and account insights.
+- **Limit:** mobile app handoff, not an agent-accessible production backend verified in this workspace.
+- **Decision:** optional finishing and research companion; its access to native audio may be more useful than another AI editor.
 
 ### ChatCut
 
@@ -102,7 +128,8 @@ This is the maintained inventory of external systems considered while building S
 ### Google Flow: Gemini Omni Flash and Veo 3.1
 
 - **Status:** Official capability, credit and workflow pages reviewed on 2026-10-05; output quality still requires a live benchmark.
-- **Potential role:** preferred low-cost image-to-video route. Use 360p Omni drafts, then an accepted 720p/Veo route and eligible upscaling. Generate the shortest supported clip and trim the best 1–2 seconds.
+- **Potential role:** account-dependent low-cost image-to-video candidate. Draft cheaply, verify output and trim the most useful segment.
+- **Current caution:** Google's help page says output generated in India receives a visible watermark. Check region, watermark and actual account export before choosing Flow for a premium deliverable.
 - **Limit:** minimum generation is currently 4 seconds. Any model can distort colour, weave, garment construction, hands or motion physics.
 - **Decision:** default generative support route for this user's current Google AI access; never decisive merchandise proof. Detailed rules: [tool-routing.md](../skills/social-house/references/tool-routing.md) and [image-to-video.md](../skills/social-house/references/image-to-video.md).
 
@@ -156,7 +183,7 @@ This is the maintained inventory of external systems considered while building S
 - **Research:** Agent Reach + OpenCLI + direct references, with source/date/access notes.
 - **Creative system:** Social House rules, Brand Memory, expert feedback and reference mechanics.
 - **Truth-preserving still motion:** HyperFrames + FFmpeg before generative video.
-- **Image-to-video:** Google Flow first; Omni 360p for drafts, then Veo/720p only for accepted shots. Runway fallback. Generated product claims are prohibited.
+- **Image-to-video:** benchmark accessible providers per real product sample; keep pixel-preserving motion as proof route. No generator is yet validated as best for textile merchandise.
 - **Voice:** paid ElevenLabs when authorised; always compare performances. Free ElevenLabs output is not commercial.
 - **Music:** Meta Sound Collection or owned/licensed track for ads; account-verified Instagram audio added at upload for organic trend use.
 - **Assembly/render:** HyperFrames or ChatCut depending on the edit; renderer does not waive creative review.

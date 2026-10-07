@@ -1,5 +1,14 @@
 # Learning log
 
+## 2026-10-08 — One-photo readiness audit
+
+- **Input:** request to judge whether Social House can deliver distinctive, tactile, conversion-focused textile Reels/carousels from one photo and a two-line brief.
+- **Evidence:** full skill and expert feedback, current tool route, local repository contents, prior 3/10 Nakoda feedback, Meta ranking research and first-party provider guidance.
+- **Disposition:** `adopt` full expert feedback and curated references as portable skill inputs; `revise` fixed concept and carousel quotas; `test` generator choice by real swatch; `reject` current one-click readiness claim.
+- **Changes:** preserved exact expert feedback and reference analysis in the skill; updated entrypoint, carousel guidance, tool routing, image-to-video checks, inventory, README and readiness audit.
+- **Future behaviour:** asset truth and expert taste are loaded before content decisions; provider choice requires output evidence; no one-photo output earns `publish-ready` from a prompt or rule checklist alone.
+- **Open gap:** no installed skill, production runner, live Instagram connection, brand-memory store or independent buyer/editor benchmark yet.
+
 ## 2026-10-08 — Agency-agents selective review
 
 - **Input:** [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents), with a request to apply useful Markdown workflows to Social House.
