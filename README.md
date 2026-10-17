@@ -4,6 +4,8 @@ Experimental social-content skill for businesses with limited time, footage and 
 
 Goal: start with product photos/clips and a plain description; deliver one proof-led Reel or carousel, cover, caption, CTA, DM path and quality report. Today this is a working skill specification and manual pilot, not a proven one-click production system.
 
+The system first diagnoses what supplied media can honestly prove. It either makes a narrowly excellent asset from that evidence or asks for one precise extra shot. It never promises a full campaign from a swatch alone.
+
 Tested first with textile businesses. Built for every sector.
 
 ## Why
@@ -34,11 +36,11 @@ Restart/reload Codex skill list if needed.
 
 ### 2. Add only what matters
 
-- 1+ real photo or clip
-- what product/service is
-- target buyer and region/language
-- desired action: DM, catalogue, quote, booking, visit, save or follow
-- optional: brand Instagram, references, logo, past exports, catalogue
+- 1+ real product photo or clip
+- one plain sentence about product or service
+- optional but useful: buyer, desired action, logo, endcard, account/reference links
+
+Messy input is valid. Social House first extracts product proof and a **provisional Brand Card** from supplied logo, packaging, endcard and prior posts. It asks one compact question only when a fact, sales route, rights decision or exact proof shot would materially change the output.
 
 ### 3. Use prompt
 
@@ -50,6 +52,27 @@ Goal: qualified DMs for shade card.
 Use attached real footage as product proof. Do not guess composition, price or availability.
 References: [paste links].
 ```
+
+Bare-minimum prompt:
+
+```text
+Use social-house. [attach product photo/clip]
+Imported jacquard fabric for kurta and shirt makers. India wholesale. Need DMs.
+```
+
+### What happens next
+
+```text
+assets + plain request
+  -> product/brand extraction
+  -> truth ceiling + provisional Brand Card
+  -> one question only if sales/truth is blocked
+  -> real-only, real-plus-context, or exact-shot route
+  -> one creative contract + bounded tool budget
+  -> production, full review, publishing pack
+```
+
+Generated images/videos are chosen before editing only when they have an honest job, such as showing use-world or mood that real proof lacks. Real media remains proof for product-specific claims.
 
 Carousel example:
 
@@ -70,6 +93,7 @@ No browser extension required for core workflow.
 - **ChatCut:** optional video editing/generation surface.
 - **Hyperframes:** optional render/composition surface.
 - **StringTune:** optional browser campaign/launch motion; not Reel renderer.
+- **ECC supporting skills:** installed locally for source-first content, brand voice, brand discovery, editing structure and verification. Social House remains creative/product-truth owner.
 
 Do not install tools or connect social accounts until specific workflow needs them. Paid providers, generated video, stock/licensed music and APIs may cost money; “free-first” is not “everything is free forever.”
 
@@ -92,21 +116,28 @@ Content cannot be called final until it passes:
 - mobile layout check: text, safe zones, captions and cover inspected;
 - conversion check: one real action, response path ready;
 - audio/trend/rights check: no invented “trending” claim.
+- source-material ceiling check: the story fits what real inputs can prove;
+- text/audio review: every text interval, cut and sound handoff checked at phone size and through full playback.
 
-Status is explicit: `publish-ready`, `creative-ready, needs proof`, or `exploration only`.
+Status is explicit: `publish-ready`, `creative-ready, needs proof`, `creative-ready, audio unverified`, or `exploration only`.
 
 ## Read next
 
 - [Project context and north star](skills/social-house/references/project-context.md)
+- [Low-friction production dispatch](skills/social-house/references/production-dispatch.md)
+- [Brand extraction from supplied assets](skills/social-house/references/brand-extraction.md)
 - [Product specification](docs/PRODUCT-SPEC.md)
 - [Creative system](docs/CREATIVE-SYSTEM.md)
 - [Anti-generic safeguards](docs/ANTI-GENERIC.md)
+- [Source-material ceiling](docs/SOURCE-MATERIAL-CEILING.md)
+- [Text and audio design system](docs/TEXT-AND-AUDIO-DESIGN-SYSTEM.md)
 - [Reel playbook](docs/REEL-PLAYBOOK.md)
 - [Carousel playbook](docs/CAROUSEL-PLAYBOOK.md)
 - [DM conversion and measurement](docs/MEASUREMENT-AND-CONVERSION.md)
 - [Continuous learning system](docs/LEARNING-SYSTEM.md)
 - [Risks/open decisions](docs/RISKS-AND-OPEN-QUESTIONS.md)
 - [Readiness audit and next proof test](research/READINESS-AUDIT-2026-10-08.md)
+- [All project Markdown documents](docs/DOCUMENT-INDEX.md)
 
 ## Feedback wanted
 

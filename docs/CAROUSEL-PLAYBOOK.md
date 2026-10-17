@@ -34,6 +34,7 @@ Avoid turning each slide into an isolated poster. Use recurring type placement a
 - Build information into a slide’s composition, never on top of the key visual by default.
 - Make the first slide compelling, but ensure subsequent slides reward the swipe with evidence rather than repeating the hook.
 - Preview the set as a profile grid and at phone-feed size. A beautiful large artboard can fail at actual viewing scale.
+- Use generated visuals to establish setting or mood only. Keep product-specific colours, weave, motifs and construction in real source photos; a polished AI garment is not a substitute for proof.
 
 ## Text and accessibility
 

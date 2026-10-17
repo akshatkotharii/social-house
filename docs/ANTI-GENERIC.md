@@ -4,13 +4,14 @@ Generic AI content is not solved by asking a model to “be more creative.” It
 
 ## The anti-generic contract
 
-Before making anything, create five small artefacts.
+Before making anything, create six small artefacts.
 
 1. **Truth map** — every factual product claim, colour, visual detail, person, and result is linked to a real source frame or an explicit user fact.
 2. **Reference mechanics sheet** — extract hook, shot order, crop, motion, pacing, sound role, type behaviour, emotional turn, and CTA from references. Do not use creator-specific wording, visuals, or sequence as a template.
 3. **Creative premise** — one sentence describing the remembered moment. Example: “The first reveal is a light moving across the actual weave; only then do we show the whole palette.”
 4. **Creative fingerprint** — record recent content family, opening device, crop, colour treatment, pace, sound treatment, type placement, CTA and visual signature. Do not repeat the same combination within the recent work window unless it is an intentional series.
 5. **Authenticity plan** — label every frame as `real proof`, `real supporting`, `generated context`, or `graphic`. Generated context must never make an unverified product claim.
+6. **Source ceiling decision** — explicitly decide whether supplied media supports desired premise. If not, narrow concept or request one specific real shot.
 
 ## Hard bans
 
@@ -20,6 +21,8 @@ Before making anything, create five small artefacts.
 - Text over the key proof area merely because a caption needs a place to go.
 - A trend with no brand/product connection.
 - A universal CTA such as “shop now” when the actual business needs a shade-card request, catalogue DM, appointment, quotation, or dealer enquiry.
+- A generic line that could be placed over any product clip: “pick your shade,” “elevated essentials,” “made for every moment,” or equivalent without buyer-specific meaning.
+- Decorative text appearing because the edit expects text, rather than because shot/audience needs it.
 - Marking an uninspected draft “final.”
 
 ## Human-feel tests
@@ -45,6 +48,8 @@ For Reels, inspect a contact sheet and playback with sound on/off. For carousels
 - the cover creates a compelling grid entry;
 - the product’s actual colour and details are visible enough to support the CTA;
 - any music/audio has a documented source and platform choice path.
+- each text interval stays readable for its entire hold, not only first frame;
+- every cut, transition and endcard has been listened to for overlap, timing and level jumps.
 
 ## Confidence states
 

@@ -1,5 +1,54 @@
 # Learning log
 
+## 2026-10-18 — Dispatch and efficiency enforcement
+
+- **Input:** critique that prior Nakoda production reached a decent asset but skipped early product/brand extraction, support-visual planning and low-friction questioning.
+- **Evidence:** review of the current four-gate system against the actual production sequence. Existing rules required source ceiling and proof/context separation, but did not make the pre-edit support-visual choice or Brand Card a hard dispatch artifact.
+- **Disposition:** `adopt` an enforced low-friction dispatch; `reject` treating “source ceiling” as “do not generate.”
+- **Changes:** added `production-dispatch.md` and `brand-extraction.md`; added Brand Card, support-visual route, targeted expert-feedback reading and a bounded first-pass generation/edit budget to gates, tool routing, quality gates, README and forward tests.
+- **Future behaviour:** from assets plus a plain request, extract brand constraints, choose real-only / real-plus-context / request-shot / exploration before script or edit, then ask one conversion-critical question only if necessary. Generated visual context must be decided and budgeted before production, never used as a late filler.
+- **Open proof:** documentation is not evidence of creative quality. Next live bare-minimum client brief must be run through this dispatch and independently scored for truth, visual continuity, type, sound and DM intent.
+
+## 2026-10-18 — Endcard handoff
+
+- **Input:** supplied Nakoda branded endcard with sound after a voice-led jacquard Reel had been assembled.
+- **Evidence:** endcard frame inspection, 0.2-second visual dissolve from CTA, separate 3.6-second audio tail beginning after voice ends, and keyframe-safe re-encode before final render.
+- **Disposition:** `adopt` endcard as a distinct closing beat, not an overlapping logo layer.
+- **Future behaviour:** trim supplied endcard to its readable contact hold, separate/fade its audio, preserve voice intelligibility, and re-encode sparse-keyframe source before delivery when renderer flags it.
+
+## 2026-10-18 — Jacquard proof/context pairing
+
+- **Input:** approved Nakoda jacquard Reel direction after prior feedback on generic visuals, rushed cuts, weak audio and text covering product proof.
+- **Evidence:** supplied colour-card footage and sample images, rendered 13.5-second voice-led Reel, frame review, and a six-slide carousel review.
+- **Disposition:** `adopt` a conditional two-tier asset map: generated editorial context can create desire, while adjacent real footage proves texture and colour. `reject` decorative effects or a music bed without fit/rights/handoff evidence.
+- **Changes:** added proof/context pacing, motion and audio constraints to `text-audio-design.md`, then routed the rule from the core skill.
+- **Future behaviour:** for minimal textile assets, create a narrow, truthful story that alternates use-context with visible proof; do not imply editorial images are exact merchandise.
+
+## 2026-10-15 — clip-engine and reference-led client workflow
+
+- **Input:** request to study clip-engine's speech-synced captions/highlights and make reference-upload-driven content easier for a business client.
+- **Evidence:** direct review of repository skill, caption renderer, time remapping, post-render sync checker and caption sample. Existing Social House source-ceiling and expert-feedback rules remain the creative boundary.
+- **Disposition:** `adopt` word-time remapping, selective emphasis and rendered-audio checking; `test` a low-friction reference-led client mode; `reject` fixed talking-head typography, automatic word-pop treatment and claims that matching a reference guarantees traction.
+- **Changes:** added `caption-sync.md` and `reference-led-client-mode.md`; routed both from core skill; updated product specification, research inventory and behaviour tests.
+- **Future behaviour:** a supplied reference becomes an original translation recipe, not a clone. Speech captions use final audio timing and buyer-relevant emphasis; Hinglish/proper nouns require human listening, not a sync-score shortcut.
+- **Next proof:** one real client brief with product media and reference; compare actual output for product truth, typography, sound, trust and DM intent.
+
+## 2026-10-15 — Source ceiling and text/audio failure
+
+- **Input:** explicit critique of generic on-frame text, poor font/colour/animation choices, audio overlap, and assuming a full campaign can be made from minimal footage.
+- **Evidence:** failed Nakoda test, existing expert feedback, current source review of ECC and Agency Agents, and direct inspection of current Social House rules.
+- **Disposition:** `adopt` source-material ceiling, shot-specific text map, audio ledger and full listening review; `reject` default overlays, generic “premium” type pairing, text that is only decorative, and technical/audio-meter checks as release proof.
+- **Changes:** added `SOURCE-MATERIAL-CEILING.md` and `TEXT-AND-AUDIO-DESIGN-SYSTEM.md`; made both required production gates in skill, quality gates, Reel playbook, product spec and anti-generic system.
+- **Future behaviour:** first decide what real assets prove. Make narrow truthful content or ask for one exact shot. Every text line, background, animation, track and audio handoff is inspected before any `publish-ready` claim.
+
+## 2026-10-15 — ECC and Agency Agents upstream review
+
+- **Input:** request to download relevant ECC skills and ingest relevant Agency Agents marketing/video methods.
+- **Evidence:** direct GitHub source review; installed ECC `content-engine`, `brand-discovery`, `brand-voice`, `video-editing`, `verification-loop`. The Claude Format Bin public catalogue and prompt builder were inspected in-browser; creator-local templates remain unavailable.
+- **Disposition:** `adopt` source-first claims, reusable voice profiles, asset assessment, deliberate cuts/match cuts, mix planning and visual QA; `reject` fixed viral funnels, autonomous posting/spend, auto-added trend music, generic personas and unsupported growth metrics.
+- **Changes:** added upstream review, tool inventory decision and new text/audio/source ceiling gates.
+- **Future behaviour:** imported role prompts become traceable conditional rules, never blanket truth. The Format Bin contributes named format-card and contact-sheet/frame-scan mechanics, not a default visual style or an installed renderer.
+
 ## 2026-10-08 — One-photo readiness audit
 
 - **Input:** request to judge whether Social House can deliver distinctive, tactile, conversion-focused textile Reels/carousels from one photo and a two-line brief.

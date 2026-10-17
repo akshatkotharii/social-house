@@ -13,6 +13,10 @@ A Reel is not automatically a product advertisement. Select one primary job:
 
 One Reel can have secondary benefits, but its edit and CTA should serve one primary job.
 
+## Before the premise: source ceiling
+
+Classify supplied material before writing a script. A swatch may prove visible stripe, colour, weave and hand interaction; it cannot prove the fit, drape or styling of a generated shirt. If the desired story needs a missing proof dimension, request one exact shot from [Source-material ceiling](SOURCE-MATERIAL-CEILING.md). Do not use generated lifestyle scenes to hide that gap.
+
 ## A 15-second proof-led structure
 
 This is a flexible timing model, not a mandatory formula.
@@ -58,6 +62,10 @@ Face, hands, place, or voice establishes a real human stake → evidence → pro
 - Record or generate multiple emotional reads privately and choose one. If using TTS, only use a user-authorised provider and an approved voice.
 - Captions are not decorative noise. Style them in the type system, segment them meaningfully, and place them away from the hero content.
 - Use music at a supportive mix level. The final upload screen, account type and geography decide whether a sound is available or commercially usable.
+- Build a text map and audio ledger before timeline assembly. Every line needs a shot-specific purpose, stable background, contrast treatment and entry/exit reason. Every track needs a source, role, level, fade and cut cue.
+- Full release review requires hearing every second. If audio playback is unavailable, deliver a draft, never a publish-ready Reel.
+
+See [Text and audio design system](TEXT-AND-AUDIO-DESIGN-SYSTEM.md) for type, placement, animation and mix gates.
 
 ## Publishing pack
 

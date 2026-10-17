@@ -14,6 +14,10 @@ Accept any format, then extract:
 
 If no action is given, suggest the most plausible one and mark it as an assumption. If no real source exists, ask for a real source before making a product-proof post.
 
+## Progressive discovery
+
+Do not convert this list into a mandatory form. Start from assets plus a plain sentence. Extract a provisional Brand Card from supplied logo, packaging, endcard or prior posts. Ask one compact question only when product truth, rights, response route or a required proof shot cannot be safely inferred. A soft CTA such as `DM for details` may be labelled as an assumption; never invent a phone number, price, catalogue or stock claim.
+
 ## Smallest useful reshoot requests
 
 - Texture/material: `one 3–5 second macro clip moving through natural side light`.

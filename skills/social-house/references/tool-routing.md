@@ -2,6 +2,23 @@
 
 Read this before selecting research, generation, audio, editing or verification tools. Choose by job, not popularity. Recheck any pricing, credits, licensing and model availability at execution time because vendor terms change.
 
+## Cost and token discipline
+
+Use lowest-cost reliable route that preserves truth and quality:
+
+1. Reuse real media before generating new media.
+2. Start with a 1–2 second support beat or still-motion test, not a full synthetic Reel.
+3. Generate no variants until concept, source ceiling and exact acceptance test are set.
+4. Use text/code assembly for local typography, timing, covers and variants; do not spend image/video credits to generate readable type.
+5. Keep research compact: retrieve only references that can change current concept/tool decision, summarise mechanics once, then reuse internal rules.
+6. Record provider, model, credits/cost estimate, rights, watermark, accepted seconds and rejection reason in job ledger.
+
+### Default first-pass budget
+
+Use `production-dispatch.md` limits unless real evidence shows an expansion will improve the selected idea: one concept, up to two editorial stills, one short motion support test, two intentional voice takes, one rough cut and one targeted correction. This is a guard against random generation, not a claim that every strong post needs the same assets. Stop and ask for one precise shot/fact when repeated variants cannot solve an evidence gap.
+
+No provider is “best value” globally. Compare available providers against one real product sample using quality, usable seconds, product fidelity, watermark/rights, time and actual cost. A cheap unusable generation is not cheap.
+
 ## Routing rules
 
 | Job | Default route | Use when | Fallback or stop condition |

@@ -6,9 +6,11 @@
 - Product-specific colour, motif, material, scale and performance are never generated or guessed.
 - Generated frames are labelled and do not carry decisive proof.
 - Generated motion is compared with its source at opening, middle and end frames; reject colour, motif, stripe, weave, logo, anatomy, garment or physics drift.
+- Source-material ceiling is documented. The premise and claims do not exceed what supplied real material proves; otherwise a precise reshoot/fact request is issued.
 
 ## Brand and human feel
 
+- A provisional Brand Card exists when any logo, packaging, endcard, grid or past post was supplied. Its palette/type/lockup inferences are visibly sourced and not mistaken for confirmed brand rules.
 - The creative has one specific remembered moment.
 - One primary content job, buyer tension, promise and response route are clear before production; no scene exists only because a template expects it.
 - It fits the brand feel, voice, type system and visual signature.
@@ -23,7 +25,9 @@
 - Transitions preserve continuity through movement, crop, colour, shape, eyeline or story.
 - Voice performance has intentional emotion, emphasis and pauses. Correct pronunciation alone is not a pass.
 - Music supports the intended emotion and offers usable edit points; major cuts, reveals and CTA moments align with the soundtrack where appropriate.
+- A pre-render contact sheet covers the planned visual sequence; a post-render frame scan catches blank frames, clipping, bad generated frames and text collisions before full playback. Neither replaces full playback.
 - The complete reel has been watched with sound on and sound off. Source-code validation and contact sheets alone do not count as final review.
+- Every audio handoff is heard: voice/music/natural sound/SFX/endcard have no accidental overlap, abrupt level change, masked speech, clipped peak, stray speech or late cue.
 
 ## Layout and accessibility
 
@@ -32,6 +36,8 @@
 - Reel works with sound on and sound off.
 - Captions are timed, readable and deliberate.
 - Every caption is relevant to the visible shot and current buyer question.
+- Every on-frame text interval has been checked over its full moving background, at phone size. It respects protected proof areas and platform UI zones.
+- Font family, size, weight, colour, outline/backdrop and animation are intentional brand/shot decisions, not editor defaults.
 - Carousel is checked slide-by-slide and as a grid.
 
 ## Conversion
@@ -53,4 +59,5 @@
 
 - `publish-ready`: every applicable gate passes.
 - `creative-ready, needs proof`: creative is sound, but a specified real asset/fact is missing.
+- `creative-ready, audio unverified`: visual asset is finished, but the complete soundtrack could not be heard and cleared. Do not release it yet.
 - `exploration only`: aesthetic concept cannot responsibly represent the actual product.

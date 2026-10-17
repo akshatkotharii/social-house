@@ -2,6 +2,30 @@
 
 These are forward tests for the skill. Judge decisions and deliverables, not exact wording.
 
+## Decision order on a minimal business brief
+
+**Input:** one swatch photo, one handling clip, an endcard with audio, low-resolution logo, “imported poly-linen stripes; India/Gulf wholesale shirt makers; get shade-card DMs; make Reel and carousel.”
+
+**Pass:** inspects all sources; writes required deliverables and fact/asset ledgers; marks unverified composition details, stock and finished-garment appearance unknown; sets a shade-range proof ceiling; asks only a material question if needed; records an expert-feedback lesson and an observed reference mechanic that alter the concept; selects a creative premise before tools; budgets any generation; maps voice, soundtrack and endcard handoff before editing; writes text against actual frames; checks cover separately; exports and reviews full Reel with sound on/off and slides at phone size; reports defects and honest release status.
+
+**Fail:** starts generating models or voice immediately, uses the endcard's audio under another track by accident, repeats the source clip to fill 15 seconds, puts text over swatches, claims a trend or publish-ready state without live evidence and full review, or makes the owner coordinate multiple tools.
+
+## Low-friction brand and support-visual dispatch
+
+**Input:** one fabric image, a short proof clip, logo, endcard and “make a Reel for wholesale buyers.”
+
+**Pass:** extracts a provisional Brand Card from visible brand assets; records confirmed versus inferred palette/type/lockup choices; infers a reversible visual direction; chooses real-only, real-plus-generated-context, request-one-shot or exploration-only **before** voice/script/edit; asks one compact question only if response route, product truth, rights or essential proof is blocked; starts within a stated generation budget.
+
+**Fail:** sends a brand questionnaire, treats source ceiling as a reason to repeat the supplied clip, generates a model scene as exact product proof, discovers visual-context need halfway through assembly, or produces unlimited variants without a documented reason.
+
+## Limited source, ambitious request
+
+**Input:** one fabric swatch image and “show our exact shirts and trousers on models in 30 seconds.”
+
+**Pass:** flags exact on-body result as unproved; offers a strong shorter shade/texture idea or asks for one real stitched sample/model shot; can create clearly illustrative styling context but does not sell it as actual product; stops generation after its stated test limit if product drift persists.
+
+**Fail:** fabricates exact apparel or keeps regenerating until something looks plausible.
+
 ## Reference dump
 
 **Input:** Instagram Reel URL plus “opening is excellent; branding is missing.”
@@ -9,6 +33,22 @@ These are forward tests for the skill. Judge decisions and deliverables, not exa
 **Pass:** analyses visible mechanics, labels access limits, decides whether it changes cover/signature guidance, updates relevant project resource, and states future behaviour.
 
 **Fail:** only appends URL to inbox or summarizes Reel.
+
+## Reference-led client brief
+
+**Input:** one product photo, a Reel reference, buyer region and “make the same thing, ready to post.”
+
+**Pass:** inspects reachable reference, names its transferable mechanics, creates an original format card, checks real product proof and media rights, produces the strongest supported deliverable, and asks for only one missing high-value shot if needed. Live sound/hashtag claims carry date, region, account fit and rights status; posting remains separate approval.
+
+**Fail:** clones sequence/voice/text, fakes an unshot garment, calls an unavailable sound trending, promises reach, or makes the client coordinate generators and editor.
+
+## Speech captions over product footage
+
+**Input:** Hinglish sales voice with a brand name and shade count, then a shortened edit with a musical endcard.
+
+**Pass:** corrects transcript by listening, times words against final voice, remaps after cuts, groups phrases for readability, emphasises only proven buyer-relevant beats, protects product detail, checks rendered audio/caption sync and listens to endcard handoff.
+
+**Fail:** copies clip-engine's yellow/green Impact style and fixed placement, highlights every word, trusts English ASR score without match coverage, or signs off on silent-frame inspection alone.
 
 ## Research claim
 
@@ -41,6 +81,30 @@ These are forward tests for the skill. Judge decisions and deliverables, not exa
 **Pass:** creates strongest truthful output possible, chooses tools internally, asks only for proof that blocks final status, and does not invent product facts.
 
 **Fail:** sends long questionnaire, produces generic template, or labels unsupported generation as real product.
+
+## Efficient first-pass boundary
+
+**Input:** two usable product assets and a brief DM goal.
+
+**Pass:** selects one premise, uses no more than needed for one rough cut, limits generated context to declared support beats, compares two purposeful voice takes only when voice is justified, and moves to a precise user request when an evidence gap survives one correction.
+
+**Fail:** researches every tool/reference by default, creates several unrelated concepts, uses generated images for readable type, or keeps spending credits to compensate for a missing real product shot.
+
+## One-photo product ceiling and format choice
+
+**Input:** one stripe swatch photo plus “make a publish-ready Reel showing the shirt on a model.”
+
+**Pass:** records a format card with the buyer job and proof requirement, recognises that no stitched garment or model footage exists, offers an excellent shade/texture-led concept from the real swatch, and asks for one precise real garment shot only if a true on-body claim is essential. It does not let a visually attractive generated model stand in for product proof.
+
+**Fail:** chooses a flashy template first, fabricates the garment or weave, or calls a prompt/contact sheet a final Reel.
+
+## Full-interval type and sound review
+
+**Input:** a finished-looking Reel whose caption crosses a patterned swatch and whose endcard already contains audio.
+
+**Pass:** checks text at phone size across every moving interval, moves or removes type that obscures proof, maps voice/music/SFX/endcard handoffs, scans rendered frames, hears the whole export, and withholds `publish-ready` if playback is unavailable.
+
+**Fail:** approves text based on one still, relies on subtitles to make generic copy useful, lets soundtrack layers collide, or calls technical render success creative approval.
 
 ## Reel creative review
 

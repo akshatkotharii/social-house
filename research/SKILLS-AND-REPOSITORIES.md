@@ -27,6 +27,29 @@ This is the maintained inventory of external systems considered while building S
 - **Do not inherit:** fixed six-slide funnels, universal hook/cadence/metric claims, cross-platform assumptions, autonomous posting or spend, generic personas, and unsupported projected uplift.
 - **Decision:** selective pattern source. Applied rules: [agency-patterns.md](../skills/social-house/references/agency-patterns.md), [quality-gates.md](../skills/social-house/references/quality-gates.md) and [MEASUREMENT-AND-CONVERSION.md](../docs/MEASUREMENT-AND-CONVERSION.md).
 
+### [affaan-m/ecc](https://github.com/affaan-m/ecc)
+
+- **Status:** Deep selective review on 2026-10-15. Relevant source files inspected; five locally installed supporting skills: `content-engine`, `brand-discovery`, `brand-voice`, `video-editing`, `verification-loop`.
+- **Use:** source-first creative claims, reusable brand voice, light-touch brand discovery when identity is absent, separation of rough-cut structure from creative edit decisions, explicit verification behaviour.
+- **Do not inherit:** engineering-specific test commands as video QA, generic B-roll/generation assumptions, or tool stacks as automatically approved production routes.
+- **Decision:** selective adoption. Social House still owns product truth, source ceiling, visual taste, safe text placement, audio listening and conversion logic. Detailed record: [UPSTREAM-REVIEW-2026-10-15.md](UPSTREAM-REVIEW-2026-10-15.md).
+
+### [rushindrasinha/clip-engine](https://github.com/rushindrasinha/clip-engine)
+
+- **Status:** Deep source review on 2026-10-15; MIT licensed. Read skill, rendering and sync scripts, caption/config/QA references, and inspected caption sample. Not installed as Social House renderer.
+- **Contains:** local Whisper word timestamps; source-to-output cut mapping; phrase groups; active-word emphasis; configurable text and font rendering with Pillow; contact-sheet QA; post-render re-transcription timing check.
+- **Use:** caption timing architecture, manual correction of Indian names/numbers, selective emphasis, final-audio sync check and rendered-frame review. Applied in [caption-sync.md](../skills/social-house/references/caption-sync.md).
+- **Do not inherit:** fixed Impact/white/yellow/green styling, thick black stroke, permanent title band, 66% caption height, talking-head first-frame formula, hourly posting cadence or automatic highlight of every word. Its English-only sync checker ignores unmatched and short words, so a numeric pass does not certify Hinglish captions.
+- **Decision:** adapt mechanics, not visual template or posting strategy. Product-footage sales Reels need brand-specific typography, proof-safe placement and explicit buyer action.
+
+### [Claude Format Bin artifact](https://claude.ai/artifact/9WeSLGAnYJ3t8163SGuGQ4)
+
+- **Status:** Public catalogue and prompt builder inspected in browser on 2026-10-15. Its creator-local templates and format skill files were not accessible.
+- **Contains:** 60 named visual formats and a builder specifying format, aspect ratio, length, audio and topic. The sample prompt requires a format spec, template, contact sheet, frame scan and final upload pack.
+- **Use:** format-card thinking, explicit format grammar, contact-sheet and frame-scan QA. Adapt to product-truth-led content rather than adopting showy animations as defaults.
+- **Do not inherit:** local filesystem paths in its sample prompt, flicker/giant-type motifs as textile defaults, or any claim that the listed styles convert buyers.
+- **Decision:** selective concept/QA adoption; not an installed tool or production renderer. Detailed record: [UPSTREAM-REVIEW-2026-10-15.md](UPSTREAM-REVIEW-2026-10-15.md).
+
 ### [latent-spaces/brag](https://github.com/latent-spaces/brag)
 
 - **Status:** Working review through installed `brag` skill and HyperFrames workflow.
@@ -172,6 +195,13 @@ This is the maintained inventory of external systems considered while building S
 - **Limit:** not the primary MP4 Reel renderer.
 - **Decision:** optional web companion route.
 
+### Overshoot Motion
+
+- **Status:** [Live gallery](https://overshoot-motion.vercel.app/) inspected 2026-10-15; no pack purchased or source imported.
+- **Observed:** 12 short vertical code-rendered motion clips: titles, lower thirds, social handles, counters and transitions. Site offers MP4s, transparent overlays, prompts and editable source in a paid ₹499 pack; claims client-work/monetised-video use. Specific asset terms and export quality remain untested.
+- **Transferable mechanic:** frame-accurate entrance, overshoot and settle curves; timed type emphasis; a lower third or handle that lands on a beat. Motion should explain a product moment or support a CTA, not become the content.
+- **Decision:** reference-only for now. For textile selling, test a restrained lower-third or one motivated reveal after the product is visible. Reject “Stop scrolling,” generic subscribe animations, counters without a meaningful verified number, and 5-second title interruptions in a 15-second Reel. Recreate original motion in the chosen renderer only when the creative contract calls for it; no purchase needed by default.
+
 ### Kalakar
 
 - **Status:** Preliminary review only.
@@ -188,6 +218,8 @@ This is the maintained inventory of external systems considered while building S
 - **Music:** Meta Sound Collection or owned/licensed track for ads; account-verified Instagram audio added at upload for organic trend use.
 - **Assembly/render:** HyperFrames or ChatCut depending on the edit; renderer does not waive creative review.
 - **Verification:** full watch with sound on/off, phone-size review, frame sampling, encoded-file probing and product-truth check.
+- **Creative ceiling:** product/footage sufficiency is decided before concept, text or generation. Ask for one high-value real shot when desired story exceeds proof.
+- **Text/audio:** use shot-specific text map and audio ledger; no default translucent text slabs, generic type pairing, unreviewed mix or “publish-ready” status without playback.
 
 ## Next repositories worth reviewing
 

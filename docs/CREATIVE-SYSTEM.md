@@ -38,6 +38,8 @@ Use real evidence: macro texture, folds, light across a surface, hands interacti
 - Standardise headline/logo placement for covers, while varying the imagery so the profile grid has rhythm.
 - Captions should not cover the key proof. Build subtitles into the brand language; do not default to giant white text in black rectangles.
 - First caption line earns the `more` tap. Use line breaks, specific language, natural search terms, and restrained emojis if any.
+- Decide whether on-frame text is necessary before designing it. Text must answer the buyer's current question and respect protected proof regions over its full shot duration.
+- No default transparent caption slabs. If moving footage has no stable safe area, use a different shot, a text-free hold or an intentional graphic composition.
 
 ### Voice and sound
 
@@ -45,6 +47,7 @@ Use real evidence: macro texture, folds, light across a surface, hands interacti
 - If a user chooses a commercial voice provider, use an approved, properly licensed voice; for the current workflow the preferred provider is ElevenLabs.
 - A Reel must be reviewed with sound on and sound off. Sound-off viewers need visual comprehension; sound-on viewers need a reason to stay.
 - Treat trends as raw material. The business should be recognisably connected to a sound or format, not merely pasted onto it.
+- Create an audio ledger before edit: source/rights, role, duration, level, fade and intended cut cue. Listen to every handoff. Meter readings alone never pass a mix.
 
 ### Context, craft and human evidence
 
@@ -106,3 +109,7 @@ A Reel cover must be legible and interesting in the profile grid, independent of
 ## 7. Expert feedback traceability
 
 The complete source feedback is preserved inside the skill at [`references/expert-feedback.md`](../skills/social-house/references/expert-feedback.md). It includes brand feel, sensory proof, covers/grids, edit continuity, captions, shoot practice, campaign strategy, community, measurement, and anti-corporate copy guidance. The skill reads it before producing a Reel or carousel.
+
+## 8. Respect source-material ceiling
+
+Creative ambition must not outrun evidence. Before concept work, distinguish what real assets visibly support from what they merely suggest. Generated models and environments can establish a mood but cannot claim exact textile colour, weave, garment fall or availability. See [source-material ceiling](SOURCE-MATERIAL-CEILING.md).

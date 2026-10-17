@@ -28,6 +28,10 @@ The system infers platform format, probable visual mood, likely content pillar, 
 
 The question must ask for the **smallest missing fact or shot**. Example: “Please add one 3–5 second close-up of the fabric moving in light; the current swatch proves colour but not drape.”
 
+Run the [source-material ceiling](SOURCE-MATERIAL-CEILING.md) before concept selection. A swatch video may support a shade-range Reel; it does not support a finished-garment/styling campaign. Make the narrow result excellent or request the smallest shot that changes the ceiling.
+
+Reference-led client mode accepts a client Reel, carousel, account or screenshot as optional input. Translate observed hook, proof, pacing, typography, audio and CTA mechanics into an original asset for the client's actual product and brand. Never promise an exact clone, invented product proof, available trending audio or a guaranteed engagement result. See [runtime procedure](../skills/social-house/references/reference-led-client-mode.md).
+
 ## The content-pack object
 
 Every job becomes a saved object. This makes it reproducible, learnable, and less generic over time.
@@ -86,9 +90,10 @@ The system may use only `verified_facts` in claim copy. Unknown facts are omitte
 4. **Research only when available:** analyse supplied references and live, authorised sources. Record source/date/region and whether the finding is evidence or a hypothesis.
 5. **Develop a defensible concept:** compare alternatives when the assets and brief offer a real choice; choose a memorable premise and an authenticity map.
 6. **Produce with real proof first:** use AI only for labelled support context, not product-representative material.
-7. **Run quality gates:** layout, truth, brand, human feel, accessibility, rights, and conversion.
-8. **Deliver one recommended final.** If a gate fails, request the minimal reshoot/fact instead of exporting a fake final.
-9. **Learn after posting:** import metrics/manual lead outcomes, compare content types against their objectives, and alter one tested variable next time.
+7. **Design text and audio against footage:** map copy to safe background regions across its full duration; create a track-level mix ledger before assembly.
+8. **Run quality gates:** layout, truth, brand, human feel, accessibility, rights, conversion, full playback and audio handoffs.
+9. **Deliver one recommended final.** If a gate fails, request the minimal reshoot/fact instead of exporting a fake final.
+10. **Learn after posting:** import metrics/manual lead outcomes, compare content types against their objectives, and alter one tested variable next time.
 
 ## Capabilities and boundaries
 
@@ -127,3 +132,5 @@ One photo can yield several short beats, but the system must choose the least sy
 5. Reject generation after repeated identity drift and request one specific real clip instead of hiding the failure.
 
 Current provider routing and acceptance rules live in `skills/social-house/references/tool-routing.md` and `skills/social-house/references/image-to-video.md`.
+
+Text, subtitle, animation and mix discipline live in [Text and audio design system](TEXT-AND-AUDIO-DESIGN-SYSTEM.md). These are release gates, not default overlays.
