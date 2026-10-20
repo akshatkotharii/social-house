@@ -43,7 +43,7 @@ Use real evidence: macro texture, folds, light across a surface, hands interacti
 
 ### Voice and sound
 
-- A voiceover is an emotional performance, not a text-to-speech checkbox. Produce at least intimate, confident, and conversational reads privately; select the one that carries the piece without sounding like an ad.
+- A voiceover is an emotional performance, not a text-to-speech checkbox. When voice adds value, prepare up to two directed reads within the generation budget; choose the one that carries the piece without sounding like an ad. Do not generate three takes as a ritual.
 - If a user chooses a commercial voice provider, use an approved, properly licensed voice; for the current workflow the preferred provider is ElevenLabs.
 - A Reel must be reviewed with sound on and sound off. Sound-off viewers need visual comprehension; sound-on viewers need a reason to stay.
 - Treat trends as raw material. The business should be recognisably connected to a sound or format, not merely pasted onto it.

@@ -1,6 +1,6 @@
 # Social House document index
 
-All 35 Markdown files in this repository are listed here. The expert feedback file is preserved verbatim; operational rules derived from it live in the core skill and design references.
+All Markdown files in this repository are listed here. The expert feedback file is preserved verbatim; operational rules derived from it live in the core skill and design references.
 
 - [README](../README.md)
 - [This index](DOCUMENT-INDEX.md)
@@ -12,6 +12,7 @@ All 35 Markdown files in this repository are listed here. The expert feedback fi
 - [Anti-generic system](ANTI-GENERIC.md)
 - [Source-material ceiling](SOURCE-MATERIAL-CEILING.md)
 - [Text and audio design system](TEXT-AND-AUDIO-DESIGN-SYSTEM.md)
+- [Output options and efficiency](OUTPUT-OPTIONS-AND-EFFICIENCY.md)
 
 ## Formats, learning and growth
 
@@ -40,10 +41,12 @@ All 35 Markdown files in this repository are listed here. The expert feedback fi
 - [Content intelligence](../skills/social-house/references/content-intelligence.md)
 - [Curated references](../skills/social-house/references/curated-references.md)
 - [Expert feedback](../skills/social-house/references/expert-feedback.md)
+- [Brand extraction](../skills/social-house/references/brand-extraction.md)
 - [Image to video](../skills/social-house/references/image-to-video.md)
 - [Input contract](../skills/social-house/references/input-contract.md)
 - [Knowledge ingestion](../skills/social-house/references/knowledge-ingestion.md)
 - [Project context](../skills/social-house/references/project-context.md)
+- [Production dispatch](../skills/social-house/references/production-dispatch.md)
 - [Quality gates](../skills/social-house/references/quality-gates.md)
 - [Reference-led client mode](../skills/social-house/references/reference-led-client-mode.md)
 - [Short-form motion](../skills/social-house/references/short-form-motion.md)

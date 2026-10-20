@@ -67,6 +67,8 @@ Face, hands, place, or voice establishes a real human stake → evidence → pro
 
 See [Text and audio design system](TEXT-AND-AUDIO-DESIGN-SYSTEM.md) for type, placement, animation and mix gates.
 
+For up to three creative treatment options, current Instagram audio evidence, context questions and bounded repair, see [Output options and efficiency](OUTPUT-OPTIONS-AND-EFFICIENCY.md). Map each voice phrase to the image, on-screen copy and sound cue it describes before timeline assembly.
+
 ## Publishing pack
 
 The final Reel needs more than an MP4:

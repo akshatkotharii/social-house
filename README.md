@@ -67,12 +67,15 @@ assets + plain request
   -> product/brand extraction
   -> truth ceiling + provisional Brand Card
   -> one question only if sales/truth is blocked
+  -> up to 3 distinct treatments; 1 recommended
   -> real-only, real-plus-context, or exact-shot route
-  -> one creative contract + bounded tool budget
+  -> bounded voice/music/generation plan
   -> production, full review, publishing pack
 ```
 
 Generated images/videos are chosen before editing only when they have an honest job, such as showing use-world or mood that real proof lacks. Real media remains proof for product-specific claims.
+
+By default, the skill completes one recommended asset and may include up to two low-cost cover/opening alternatives. Three distinct options are not three full renders; ask for three finished versions when that is what you need. See [Output options and efficiency](docs/OUTPUT-OPTIONS-AND-EFFICIENCY.md).
 
 Carousel example:
 
@@ -131,6 +134,7 @@ Status is explicit: `publish-ready`, `creative-ready, needs proof`, `creative-re
 - [Anti-generic safeguards](docs/ANTI-GENERIC.md)
 - [Source-material ceiling](docs/SOURCE-MATERIAL-CEILING.md)
 - [Text and audio design system](docs/TEXT-AND-AUDIO-DESIGN-SYSTEM.md)
+- [Output options and efficiency](docs/OUTPUT-OPTIONS-AND-EFFICIENCY.md)
 - [Reel playbook](docs/REEL-PLAYBOOK.md)
 - [Carousel playbook](docs/CAROUSEL-PLAYBOOK.md)
 - [DM conversion and measurement](docs/MEASUREMENT-AND-CONVERSION.md)

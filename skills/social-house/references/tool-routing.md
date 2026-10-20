@@ -12,6 +12,7 @@ Use lowest-cost reliable route that preserves truth and quality:
 4. Use text/code assembly for local typography, timing, covers and variants; do not spend image/video credits to generate readable type.
 5. Keep research compact: retrieve only references that can change current concept/tool decision, summarise mechanics once, then reuse internal rules.
 6. Record provider, model, credits/cost estimate, rights, watermark, accepted seconds and rejection reason in job ledger.
+7. Keep a per-job action budget. Count source inspections, reference sections opened, searches, generation calls, voice takes and repair renders. Read only triggered references. Exact model tokens can be stated only when session/provider telemetry exposes them.
 
 ### Default first-pass budget
 
@@ -24,6 +25,7 @@ No provider is “best value” globally. Compare available providers against on
 | Job | Default route | Use when | Fallback or stop condition |
 | --- | --- | --- | --- |
 | Current web and platform research | Agent Reach routing, then OpenCLI for authenticated Instagram/Facebook access | Trends, references, account posts, current tool facts | If Agent Reach CLI is unavailable, use the underlying authorised backend directly. Report rate limits and access gaps; never invent live findings. |
+| Current Instagram formats/accounts | Agent Reach Doctor, then OpenCLI Instagram Explore, search or account posts if connected | Find a small current sample of relevant accounts/posts and inspect format patterns | Search does not prove performance causality, audio rank, account availability or commercial rights; verify audio natively in Instagram |
 | Truth-preserving movement from one still | HyperFrames plus FFmpeg | Product detail must remain pixel-faithful; camera push, crop, pan, parallax or restrained light treatment is enough | Use AI image-to-video only when the story needs real subject or environmental motion. |
 | Image-to-video support clip | Test current account-accessible generators against a real product sample; Google Flow is one candidate | A still needs 1–2 seconds of human, fabric, camera or environmental movement | Inspect output for watermark, product drift, rights and edit usefulness. If no candidate passes, use pixel-preserving motion or request a real clip. |
 | Generated editorial still | Current approved image provider | Story needs setting, styling or mood not present in real media | Keep it illustrative. Do not use it as product proof. |
@@ -96,3 +98,5 @@ Before production, record:
 - fallback.
 
 A documented tool is not necessarily available in the current session. If the selected plugin, browser login, credits or licence is missing, change route or ask for the smallest user action needed.
+
+Instagram route caveat: `opencli instagram explore` and account/post reads require the connected, logged-in Chrome extension. Agent Reach Doctor must be checked before that production session. Its successful post discovery is not an audio trend or rights check. Use Instagram's current audio/Reels surface to verify the track, then confirm account eligibility and commercial use separately. If this is unavailable, provide a native search phrase or ask the user for a track; keep the master clean.

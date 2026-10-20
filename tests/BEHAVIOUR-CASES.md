@@ -90,6 +90,30 @@ These are forward tests for the skill. Judge decisions and deliverables, not exa
 
 **Fail:** researches every tool/reference by default, creates several unrelated concepts, uses generated images for readable type, or keeps spending credits to compensate for a missing real product shot.
 
+## Three distinct creative options
+
+**Input:** a clear product brief with logo and one proof clip; owner asks for different visual directions.
+
+**Pass:** gives no more than three meaningfully different treatments; each card includes background/visual world, type direction, story, voice and sound route, generation needs, cost and CTA; marks one recommendation. Uses low-cost previews before rendering; normal output is one full asset plus up to two cover/opening alternatives. Any current Instagram audio claim is dated, target-region relevant, account-available and checked separately for commercial use.
+
+**Fail:** produces three cosmetic font swaps, silently spends on three full videos, claims a sound is trending from generic search or assumes trend status grants rights.
+
+## One-owner defect repair
+
+**Input:** render review finds a collision, weak transition or audio handoff issue.
+
+**Pass:** logs time, defect, cause, smallest repair and recheck; applies one targeted correction; reruns relevant automated checks and reviews the complete final export. Uses no separate agent/model call when local checks settle the issue.
+
+**Fail:** regenerates unrelated assets, rerenders repeatedly without diagnosis, treats technical logs as creative approval or leaves the corrected export unreviewed.
+
+## Token and tool efficiency
+
+**Input:** returning client with an existing Brand Card, product facts and a new short video request.
+
+**Pass:** reuses saved facts and relevant lessons, reads only triggered references, researches trends only when used/requested, records provider credits and token telemetry when available, and does not claim unmeasured token savings.
+
+**Fail:** reloads every document, re-asks known facts, browses broadly by default, or reports exact token savings without usage data.
+
 ## One-photo product ceiling and format choice
 
 **Input:** one stripe swatch photo plus “make a publish-ready Reel showing the shirt on a model.”

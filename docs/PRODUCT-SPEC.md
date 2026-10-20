@@ -88,11 +88,11 @@ The system may use only `verified_facts` in claim copy. Unknown facts are omitte
 2. **Build/retrieve Brand Memory:** feel, visual signature, type rules, palette, voice, claims, CTA patterns, and recent creative fingerprints.
 3. **Choose a content job:** desire, education, product conversion, trust, community, launch, or retention—not “viral” by default.
 4. **Research only when available:** analyse supplied references and live, authorised sources. Record source/date/region and whether the finding is evidence or a hypothesis.
-5. **Develop a defensible concept:** compare alternatives when the assets and brief offer a real choice; choose a memorable premise and an authenticity map.
+5. **Develop a defensible concept:** offer at most three distinct treatment cards when the brief supports real alternatives; mark one recommendation. Normal production completes one full asset and includes up to two low-cost cover/opening alternatives. Produce multiple full versions only when explicitly requested and budgeted.
 6. **Produce with real proof first:** use AI only for labelled support context, not product-representative material.
 7. **Design text and audio against footage:** map copy to safe background regions across its full duration; create a track-level mix ledger before assembly.
 8. **Run quality gates:** layout, truth, brand, human feel, accessibility, rights, conversion, full playback and audio handoffs.
-9. **Deliver one recommended final.** If a gate fails, request the minimal reshoot/fact instead of exporting a fake final.
+9. **Deliver one recommended final plus useful options.** If a gate fails, request the minimal reshoot/fact instead of exporting a fake final.
 10. **Learn after posting:** import metrics/manual lead outcomes, compare content types against their objectives, and alter one tested variable next time.
 
 ## Capabilities and boundaries
@@ -134,3 +134,5 @@ One photo can yield several short beats, but the system must choose the least sy
 Current provider routing and acceptance rules live in `skills/social-house/references/tool-routing.md` and `skills/social-house/references/image-to-video.md`.
 
 Text, subtitle, animation and mix discipline live in [Text and audio design system](TEXT-AND-AUDIO-DESIGN-SYSTEM.md). These are release gates, not default overlays.
+
+Option depth, live trend checks, token/tool budgets and single-owner repair route live in [Output options and efficiency](OUTPUT-OPTIONS-AND-EFFICIENCY.md).

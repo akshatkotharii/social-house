@@ -45,6 +45,8 @@ For each generation, write a *shot prompt*, not a mood adjective dump: subject a
 
 **Exit:** creative contract, support-visual route, shot plan, tool route, cost ceiling and proof boundaries exist. Otherwise do not produce.
 
+If concept choice is genuinely open, prepare up to three differentiated treatment cards and mark one recommendation. Do not produce three full variants by default. Show the voice/music/language direction and whether model/location imagery is generated; ask one compact question only if that choice materially changes truth, brand representation, licensing or cost.
+
 ## Gate 3 — Produce in dependency order
 
 For a spoken Reel, settle the message before editing. Write a short, product-specific voice script; mark pronunciation, emotional intention, emphasis and pauses. Test delivery against buyer, not “AI voice quality.” When ElevenLabs is available and commercially licensed, compare at least two purposeful takes; prefer a real approved voice or a no-voice concept over an unconvincing read. Select music/sound for the emotional arc and usable cut points, not trend status alone. Map all tracks, including supplied endcard audio, in an audio ledger before assembly. Choose which track owns each second and how handoffs work.
@@ -68,6 +70,8 @@ Revisit acceptance checklist and previous failure patterns in `SKILL.md` and `qu
 5. Ask: would a relevant buyer understand the product, trust the evidence and know exactly what to message? Would this be recognisable without a logo? Is one moment memorable?
 
 Use a defect log with time/slide, problem, cause, fix and recheck result. Fix the failed interval, then replay the whole export; local fixes can create new defects. Stop after two failed attempts at the same approach: change approach, ask for a specific asset/fact, or report limitation. Never consume credits indefinitely to rescue a weak premise.
+
+Use the single-owner repair protocol in `docs/OUTPUT-OPTIONS-AND-EFFICIENCY.md`: classify first, fix the smallest failed part, rerun deterministic checks, then review the full export once. Do not add a separate model/agent review call by default when local checks settle the defect.
 
 Release status: `publish-ready` only after all applicable checks pass. If playback, account-level sound rights, proof or visual inspection is unavailable, state the exact unverified gate and do not call it ready. Do not publish, spend, boost or send DMs without separate permission.
 

@@ -7,6 +7,8 @@ Read before any Reel that uses on-frame copy, subtitles, narration, music or SFX
 1. **Source ceiling decision:** supplied proof can support the premise, or one exact reshoot request is issued.
 2. **Text map:** for every line, shot range, buyer purpose, protected proof region, stable safe area, background contrast, role and entry/exit event.
 3. **Audio ledger:** for every track, source/rights, role, time range, level, fades and intended cut/reveal cue.
+4. **Sound choice:** voice/no voice, music/original/natural sound, language and performance direction, trend check status, rights route and clean-master fallback.
+5. **Voice-to-picture map:** spoken phrase and timing paired with proof shot, on-screen copy, emotional turn, movement/cut and sound cue.
 
 ## Rules
 
@@ -18,6 +20,9 @@ Read before any Reel that uses on-frame copy, subtitles, narration, music or SFX
 - Keep type families to brand system. Use temporary pairing only as a documented, tested fallback.
 - Use only deliberate audio layers. Voice/natural sound/music/SFX/endcard need planned handoffs; no accidental overlap.
 - A supplied endcard is a separate final beat, not background branding. Let voice-led CTA finish first; trim its visual/audio to the shortest readable contact hold, fade its audio in/out, and verify it does not cut off a spoken final word.
+- When a Reel uses or recommends Instagram trend audio, check current target-region evidence near production and verify account availability and commercial use separately. Agent Reach account/post discovery alone cannot establish audio rank or licence. If the current Instagram audio surface is inaccessible, report that, provide a search path or ask for a user-selected track, and make a clean master with a rights-safe fallback.
+- Choose voice language, delivery and sound against the buyer and story. Ask once when a missing language, speaker or paid-use decision materially changes the result; otherwise label the audience-based default.
+- In a voice-led Reel, each phrase must describe, deepen or sell the proof visible in that interval. Align breaths, emphasis and pauses with reveals or actions; move the line or shot when they do not match.
 
 ## Editorial context paired with product proof
 

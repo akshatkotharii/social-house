@@ -29,6 +29,8 @@ assets + plain request
 
 Generated context is normal when it has a declared job. It is not an afterthought and never replaces proof.
 
+6. Offer up to three meaningfully different treatment options when it helps choice. Each varies creative grammar (premise, visual world, typography, pacing and sound), states generation needs and relative cost, and marks one recommendation. Default output is one completed recommended asset plus up to two low-cost cover/opening/design alternatives. Full production of multiple versions requires a clear request and available budget.
+
 ## Ask one compact question only when it changes outcome
 
 Do not ask for preferences that can be changed later. Ask one consolidated question only if any of these block a credible deliverable:
@@ -66,6 +68,8 @@ Budget is a default, not a quality ceiling. Expand only with a concrete reason r
 | Reference research | only mechanics that change this job | Do not browse for decoration or a vague trend claim |
 
 Use local layout/render checks rather than generating images containing type. Reuse one accepted still across a cover or carousel only when its role remains honest; do not repeat it as filler.
+
+For requested option previews, vary locally rendered art direction before spending image/video credits. Generate only selected-idea assets by default. For live Instagram audio, read the audio decision in `docs/OUTPUT-OPTIONS-AND-EFFICIENCY.md`; do not infer track popularity or rights from an account/reel search alone.
 
 ## Non-negotiable handoff
 

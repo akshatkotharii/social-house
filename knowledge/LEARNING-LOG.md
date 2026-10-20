@@ -1,5 +1,15 @@
 # Learning log
 
+## 2026-10-21 — Creative choice, audio checks and cost control
+
+- **Input:** request to offer varied creative choices while reducing repeated prompting, tool churn, weak visual/audio matching and unnecessary token use.
+- **Evidence:** prior production failures plus current Agent Reach Doctor snapshot. Instagram OpenCLI extension file was detected but not connected, so current account-level Reel/audio availability could not be checked in this session.
+- **Disposition:** `adopt` a maximum-three treatment-card system, recommendation-first production, required conditional Instagram audio verification and a single-owner targeted repair loop; `reject` unconditional three-render production and invented token-savings claims.
+- **Changes:** added `OUTPUT-OPTIONS-AND-EFFICIENCY.md`; routed it from the skill, dispatch, README, product spec and tests; expanded sound, question and defect-repair gates.
+- **Future behaviour:** show up to three genuinely distinct creative grammars when useful, with type/background/visual/story/voice/sound choices, generated-asset needs and cost. Default to one full recommended asset plus light alternatives. Check Instagram sound close to production; separate trend evidence, account eligibility and commercial rights. If access is missing, say so and use a user-selected or original/cleared fallback.
+- **Efficiency limit:** use bounded context and generation counts; report exact token totals only where provider telemetry exists. Measure generator calls, voice takes, edits, spend and review defects across comparable jobs before claiming savings.
+- **Repair rule:** one owner classifies the defect, fixes the smallest interval, runs deterministic checks, then reviews the complete export. Escalate by changing route or requesting the missing input, not by endless regeneration.
+
 ## 2026-10-18 — Dispatch and efficiency enforcement
 
 - **Input:** critique that prior Nakoda production reached a decent asset but skipped early product/brand extraction, support-visual planning and low-friction questioning.
